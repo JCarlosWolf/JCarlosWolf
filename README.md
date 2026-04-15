@@ -1,8 +1,8 @@
 # 👋 Hi, I'm José Carlos
 
-💻 **Data & Process Automation Specialist**  
-⚙️ Python | SQL | FastAPI  
-📊 Turning business problems into automated solutions  
+💰 **Automation Systems Builder | Python • APIs • Lead Generation**
+⚙️ Python | SQL | FastAPI
+📊 Building systems that save time, reduce manual work and generate real business value
 
 ---
 
@@ -10,82 +10,107 @@
 
 After **36 years in the financial sector**, I transitioned into tech with a clear focus:
 
-👉 Helping businesses **save time, reduce errors and improve decision-making** through automation and data.
+👉 building automation systems that solve real business problems.
 
-I bring a unique combination of:
-- 🧠 Business experience
-- 📊 Analytical thinking
-- ⚙️ Practical technical skills
+I combine:
+
+* 🧠 Deep business understanding
+* 📊 Strong analytical thinking
+* ⚙️ Practical automation skills
+
+My goal is simple:
+👉 **reduce inefficiencies, eliminate manual work, and build systems that actually run**
 
 ---
 
 ## 🧠 What I Do
 
-- Automate repetitive processes with Python  
-- Analyze and transform data (SQL + Pandas)  
-- Build APIs to connect systems and workflows  
-- Deliver solutions focused on **real business impact**
+* ✔️ Build automation systems that replace manual work
+* ✔️ Develop scraping & data extraction solutions
+* ✔️ Create APIs that connect tools and workflows
+* ✔️ Design systems that generate leads and opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Data**
-- Python · SQL (PostgreSQL / MySQL)  
-- Pandas · NumPy  
+
+* Python · SQL (PostgreSQL / MySQL)
+* Pandas · NumPy
 
 **Backend & APIs**
-- FastAPI · REST APIs  
-- JWT Authentication  
+
+* FastAPI · REST APIs
+* JWT Authentication
 
 **Tools**
-- Docker · Git · Linux  
+
+* Docker · Git · Linux
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Project
+
+### 🤖 [Reddit Lead Generation Bot](https://github.com/JCarlosWolf/reddit-telegram-monitoring-bot)
+
+**Automation system that detects freelance opportunities in real time and sends high-quality leads to Telegram**
+
+✔️ Filters noise and low-quality posts
+✔️ Identifies real hiring intent
+✔️ Sends actionable leads instantly
+✔️ Built for consistent opportunity flow
+
+👉 Designed to **find opportunities, not just process data**
+
+---
+
+## 📂 Other Projects
 
 ### 🧾 [InvoiceFlow](https://github.com/JCarlosWolf/InvoiceFlow)
+
 **Invoice automation system with OCR and secure multi-user architecture**
 
-✔️ Automates invoice processing  
-✔️ Reduces manual workload  
-✔️ API-ready for integrations  
+✔️ Automates invoice processing
+✔️ Reduces manual workload
+✔️ API-ready for integrations
 
 ---
 
 ### ⚙️ [FlowCore API](https://github.com/JCarlosWolf/flowcore-api)
+
 **Workflow automation engine for business processes**
 
-✔️ Configurable workflows  
-✔️ Process tracking & audit logs  
-✔️ Real-time updates via WebSockets  
+✔️ Configurable workflows
+✔️ Process tracking & audit logs
+✔️ Real-time updates via WebSockets
 
 ---
 
 ## 💼 What I Can Do For You
 
-✔️ Automate administrative processes  
-✔️ Build internal data tools  
-✔️ Create APIs to streamline workflows  
-✔️ Turn raw data into actionable insights  
+✔️ Automate repetitive and manual processes
+✔️ Build custom data & scraping solutions
+✔️ Create APIs to streamline workflows
+✔️ Turn data into actionable systems
 
 ---
 
 ## 🌍 Availability
 
-🟢 Open to freelance projects  
-🟢 Open to remote collaborations  
+🟢 Open to freelance projects
+🟢 Open to remote collaborations
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-carlos-lobo-arroyo-473b458a  
-- 📧 Email: JCLOBO07@GMAIL.COM  
+* 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-carlos-lobo-arroyo-473b458a
+* 📧 Email: [JCLOBO07@GMAIL.COM](mailto:JCLOBO07@GMAIL.COM)
 
 ---
 
 ## ⚡ Philosophy
 
-> *"Technology should simplify business, not complicate it."*
+> *"I don’t just write code — I build systems that solve real problems."*
+
